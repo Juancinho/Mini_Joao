@@ -19,7 +19,10 @@ This project is a sophisticated web application that enables users to interact w
 
 To provide a visual representation of the AI Chat Interface, we've included screenshots of the application in action. These images showcase the user interface, key features, and the overall look and feel of the chat experience.
 
-![Chat Interface - Light Mode](D:\Proyectos\geminiLlama%20-%20repositorio\images\1.png)
+![Chat Interface Gemini - Light Mode](images/1.png)
+![Chat Interface Llama - History](images/2.png)
+![Chat Interface Llama - Dark Mode](images/3.png)
+
 
 ## Requirements
 
