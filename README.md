@@ -31,7 +31,7 @@ To provide a visual representation of the AI Chat Interface, we've included scre
 - Node.js (v14 or later)
 - npm (v6 or later)
 - Chrome Canary (for Gemini AI)
-- Llama3 server (for Llama3 AI)
+- Llama3 server (for Llama3 AI). Llama3 server (for Llama3 AI). If you do not have it installed, please follow the instructions at [ollama](https://github.com/ollama/ollama).
 
 ### Frontend
 
