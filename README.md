@@ -166,17 +166,7 @@ Note: Ensure your host machine's firewall allows incoming connections on port 30
 - If you can't access the application from other devices, verify that your host machine's firewall is not blocking the connection
 - Ensure all devices are on the same local network
 
-## Contributing
 
-We welcome contributions to improve the AI Chat Interface! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
