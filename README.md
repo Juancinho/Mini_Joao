@@ -15,6 +15,12 @@ This project is a sophisticated web application that enables users to interact w
 - Responsive design for various screen sizes
 - Accessible from any device on the local network
 
+## Interface Images
+
+To provide a visual representation of the AI Chat Interface, we've included screenshots of the application in action. These images showcase the user interface, key features, and the overall look and feel of the chat experience.
+
+![Chat Interface - Light Mode](D:\Proyectos\geminiLlama%20-%20repositorio\images\1.png)
+
 ## Requirements
 
 ### Backend
@@ -165,8 +171,6 @@ Note: Ensure your host machine's firewall allows incoming connections on port 30
 - Check that the IP addresses in both frontend and backend configurations match your local network setup
 - If you can't access the application from other devices, verify that your host machine's firewall is not blocking the connection
 - Ensure all devices are on the same local network
-
-
 
 ## License
 
